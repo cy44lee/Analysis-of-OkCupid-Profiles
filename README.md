@@ -1,4 +1,4 @@
-Analysis-of-OkCupid-Profiles
+### **Analysis-of-OkCupid-Profiles**
 
 **Goals:**  
 1. Cluster profiles based on their interests and similarities, and discover what characteristics each cluster has  
