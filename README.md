@@ -7,4 +7,4 @@ Goals:
 
 Tools and Models: Python, Topic modeling (LDA and NMF with CountVectorizer and TfidfVectorizer), Sentiment analysis (Textblob), Jaccard similarity
 
-Data: User profiles of OkCupid
+Data: User profiles of OkCupid [Link to Data](https://www.kaggle.com/andrewmvd/okcupid-profiles)
