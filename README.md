@@ -1,4 +1,5 @@
 #Analysis-of-OkCupid-Profiles
+
 #Goals:
 #1. Cluster profiles based on their interests and similarities, and discover what characteristics each cluster has
 #2. Analyze whether the user has a positive or negative sentiment based on the profiles
